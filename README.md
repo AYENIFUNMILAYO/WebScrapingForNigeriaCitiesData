@@ -53,15 +53,6 @@ Copy code
 git clone https://github.com/yourusername/nigeria-cities-scraper.git
 Install the necessary Python dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Ensure that all dependencies are installed.
-Run the script to start scraping Nigerian cities data:
-bash
-Copy code
-python scraper.py
 The scraped data will be saved in a CSV file named scraped_table_data.csv.
 
 ##License
