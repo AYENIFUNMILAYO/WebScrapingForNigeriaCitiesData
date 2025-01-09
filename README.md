@@ -53,7 +53,7 @@ Copy code
 git clone https://github.com/AYENIFUNMILAYO/WebScrapingForNigeriaCitiesData.git
 Install the necessary Python dependencies:
 
-The scraped data will be saved in a CSV file named scraped_table_data.csv.
+The scraped data will be saved in a CSV file named merged_data_20250108_093153.csv.
 
 ##License
 This project is licensed under the MIT License.
